@@ -1,4 +1,4 @@
-# La boutique d'Harry / simplon.co @2024
+# La boutique d'Harry V2 / simplon.co @2024
 
 ## Table des matières 🗒️
 
@@ -14,7 +14,7 @@
 
 ## Caractéristiques 🕵️
 
-Le projet (en binôme) consiste à créer la maquette d'un site fictif via FIGMA puis de retranscrire cela par le code (HTML/CSS)
+Le projet consiste à intégrer les notions de CRUD, d'intéractions en base de donnée depuis un projet statique
 
 ## Technologies utilisées 👨‍💻
 
@@ -24,6 +24,9 @@ Le projet (en binôme) consiste à créer la maquette d'un site fictif via FIGMA
 - Git
 - HTML
 - CSS (CUSTOM / BOOTSTRAP)
+- PHP
+- PHPMYADMIN
+- SQL
 
 ## Comment utiliser ⏯️
 
@@ -32,7 +35,7 @@ a . Clonez ce référentiel
     git clone https://github.com/kferrerux/laboutiquedharry.git
     ```
 
-b . Ouvrez le fichier `index.html` dans votre navigateur
+b . Vous pouvez consulter la structure du site via son code et la base de donnée
 
 c . Explorez et appréciez!
 
